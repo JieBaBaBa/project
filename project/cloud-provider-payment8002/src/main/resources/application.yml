@@ -9,7 +9,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     # mysql驱动类
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/cxj2020?useUnicode=true&amp;characterEncoding=UTF8
+    url: jdbc:mysql://106.52.131.208:3306/cxj2020?useUnicode=true&amp;characterEncoding=UTF8
     username: root
     password: 123
 #  zipkin:
