@@ -19,6 +19,7 @@ generatorConfig.xml
 *.ipr
 *.iml
 *.iws
+*.xml
 
 # temp ignore
 *.log
